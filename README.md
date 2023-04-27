@@ -20,7 +20,8 @@ Install Termux on your Android device from the Google Play Store.
 Open Termux and update the package manager by typing apt update and pressing Enter.
 Install Python by typing apt install python and pressing Enter.
 Install pip, the Python package manager, by typing apt install python-pip and pressing Enter.
-Install the InstagramAPI library by typing pip install InstagramAPI and pressing Enter.
+Install the InstagramAPI library by typing pip install InstagramAPI and pressing Enter or install all the requirements using the requirements command pip install -r requirements.txt
+.
 Clone the HoodMaster repository from GitHub by typing git clone (https://github.com/Hoodmaster2/IG/).git and pressing Enter.
 Navigate to the HoodMaster directory by typing cd HoodMaster and pressing Enter.
 Run the HoodMaster tool by typing python ig.py and pressing Enter.
